@@ -1,7 +1,0 @@
-CREATE TABLE "Dishes" (
-	"IdDishes"	INTEGER NOT NULL,
-	"Name"	TEXT NOT NULL,
-	"Price"	NUMERIC NOT NULL,
-	"Category"	TEXT NOT NULL,
-	PRIMARY KEY("IdDishes" AUTOINCREMENT)
-);
