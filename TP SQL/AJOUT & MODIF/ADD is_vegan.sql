@@ -1,0 +1,2 @@
+ALTER TABLE Dishes
+ADD is_vegan INTEGER;
