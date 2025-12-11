@@ -1,0 +1,4 @@
+CREATE TABLE Ingredients (
+    IdIngredient INTEGER PRIMARY KEY AUTOINCREMENT,
+    Name TEXT NOT NULL
+);
